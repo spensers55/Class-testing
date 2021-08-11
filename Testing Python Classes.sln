@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31515.178
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Testing Python Classes", "Testing Python Classes\Testing Python Classes.pyproj", "{AD63EF55-2BC4-4DCD-B867-C6E6E1D076EE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AD63EF55-2BC4-4DCD-B867-C6E6E1D076EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD63EF55-2BC4-4DCD-B867-C6E6E1D076EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {66101369-1793-46A6-A980-36702DEA2635}
+	EndGlobalSection
+EndGlobal
